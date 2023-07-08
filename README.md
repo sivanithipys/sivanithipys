@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sivanithipys
 - 👀 I’m interested in learing
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on zoho
 - 📫 How to reach me using my gmail
 
 <!---
